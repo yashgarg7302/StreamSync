@@ -20,6 +20,10 @@ A self-hosted media streaming server which can transmit locally stored media fil
 -   Media playback
     ![playback](/public/img5.png)
 
+### Demo Working 
+https://github.com/user-attachments/assets/aba9db41-f6e0-45fd-b6a9-9f5d2b4d27b1    
+    
+
 ### To start the frontend, run the following commands:
 
 -   `cd client`
